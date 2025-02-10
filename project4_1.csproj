@@ -67,7 +67,6 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Content Include="index-2.html" />
     <Content Include="index.html" />
     <Content Include="scripts\script.js" />
     <Content Include="styles\style.css" />
