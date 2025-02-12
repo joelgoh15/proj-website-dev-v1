@@ -1,7 +1,7 @@
-# proj-website-dev-v1
+## Introduction
 A project that works on development of building a website for a company.
 
-# Technical Details:
+## Technical Details:
 It uses a tab-base approach.
 
 Technology stacks used:
